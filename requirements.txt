@@ -1,5 +1,6 @@
 ipykernel
 pandas
 matplotlib
+mlxtend
 seaborn
 scikit-learn
