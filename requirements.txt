@@ -4,3 +4,4 @@ matplotlib
 mlxtend
 seaborn
 scikit-learn
+scikit-learn-extra
