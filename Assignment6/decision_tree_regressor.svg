@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2024-10-21T23:02:34.885337</dc:date>
+    <dc:date>2024-10-21T23:35:28.900363</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -1243,15 +1243,15 @@ L 446.436473 269.468143
    </g>
    <g id="text_18">
     <g id="patch_37">
-     <path d="M 437.450677 296.903555 
-L 496.749323 296.903555 
-L 496.749323 272.34134 
-L 437.450677 272.34134 
+     <path d="M 437.2879 296.903555 
+L 496.9121 296.903555 
+L 496.9121 272.34134 
+L 437.2879 272.34134 
 z
 " style="fill: #fae8db; stroke: #000000; stroke-linejoin: miter"/>
     </g>
-    <!-- Seasons_Spring &lt;= 0.5 -->
-    <g transform="translate(439.336237 277.939832) scale(0.047139 -0.047139)">
+    <!-- Seasons_Winter &lt;= 0.5 -->
+    <g transform="translate(439.17346 277.939832) scale(0.047139 -0.047139)">
      <defs>
       <path id="DejaVuSans-53" d="M 3425 4513 
 L 3425 3897 
@@ -1303,6 +1303,22 @@ Q 2894 3584 3203 3211
 Q 3513 2838 3513 2113 
 z
 " transform="scale(0.015625)"/>
+      <path id="DejaVuSans-57" d="M 213 4666 
+L 850 4666 
+L 1831 722 
+L 2809 4666 
+L 3519 4666 
+L 4500 722 
+L 5478 4666 
+L 6119 4666 
+L 4947 0 
+L 4153 0 
+L 3169 4050 
+L 2175 0 
+L 1381 0 
+L 213 4666 
+z
+" transform="scale(0.015625)"/>
       <path id="DejaVuSans-69" d="M 603 3500 
 L 1178 3500 
 L 1178 0 
@@ -1314,40 +1330,6 @@ L 1178 4863
 L 1178 4134 
 L 603 4134 
 L 603 4863 
-z
-" transform="scale(0.015625)"/>
-      <path id="DejaVuSans-67" d="M 2906 1791 
-Q 2906 2416 2648 2759 
-Q 2391 3103 1925 3103 
-Q 1463 3103 1205 2759 
-Q 947 2416 947 1791 
-Q 947 1169 1205 825 
-Q 1463 481 1925 481 
-Q 2391 481 2648 825 
-Q 2906 1169 2906 1791 
-z
-M 3481 434 
-Q 3481 -459 3084 -895 
-Q 2688 -1331 1869 -1331 
-Q 1566 -1331 1297 -1286 
-Q 1028 -1241 775 -1147 
-L 775 -588 
-Q 1028 -725 1275 -790 
-Q 1522 -856 1778 -856 
-Q 2344 -856 2625 -561 
-Q 2906 -266 2906 331 
-L 2906 616 
-Q 2728 306 2450 153 
-Q 2172 0 1784 0 
-Q 1141 0 747 490 
-Q 353 981 353 1791 
-Q 353 2603 747 3093 
-Q 1141 3584 1784 3584 
-Q 2172 3584 2450 3431 
-Q 2728 3278 2906 2969 
-L 2906 3500 
-L 3481 3500 
-L 3481 434 
 z
 " transform="scale(0.015625)"/>
       <path id="DejaVuSans-35" d="M 691 4666 
@@ -1384,19 +1366,19 @@ z
      <use xlink:href="#DejaVuSans-6e" x="299.560547"/>
      <use xlink:href="#DejaVuSans-73" x="362.939453"/>
      <use xlink:href="#DejaVuSans-5f" x="415.039062"/>
-     <use xlink:href="#DejaVuSans-53" x="465.039062"/>
-     <use xlink:href="#DejaVuSans-70" x="528.515625"/>
-     <use xlink:href="#DejaVuSans-72" x="591.992188"/>
-     <use xlink:href="#DejaVuSans-69" x="633.105469"/>
-     <use xlink:href="#DejaVuSans-6e" x="660.888672"/>
-     <use xlink:href="#DejaVuSans-67" x="724.267578"/>
-     <use xlink:href="#DejaVuSans-20" x="787.744141"/>
-     <use xlink:href="#DejaVuSans-3c" x="819.53125"/>
-     <use xlink:href="#DejaVuSans-3d" x="903.320312"/>
-     <use xlink:href="#DejaVuSans-20" x="987.109375"/>
-     <use xlink:href="#DejaVuSans-30" x="1018.896484"/>
-     <use xlink:href="#DejaVuSans-2e" x="1082.519531"/>
-     <use xlink:href="#DejaVuSans-35" x="1114.306641"/>
+     <use xlink:href="#DejaVuSans-57" x="465.039062"/>
+     <use xlink:href="#DejaVuSans-69" x="561.666016"/>
+     <use xlink:href="#DejaVuSans-6e" x="589.449219"/>
+     <use xlink:href="#DejaVuSans-74" x="652.828125"/>
+     <use xlink:href="#DejaVuSans-65" x="692.037109"/>
+     <use xlink:href="#DejaVuSans-72" x="753.560547"/>
+     <use xlink:href="#DejaVuSans-20" x="794.673828"/>
+     <use xlink:href="#DejaVuSans-3c" x="826.460938"/>
+     <use xlink:href="#DejaVuSans-3d" x="910.25"/>
+     <use xlink:href="#DejaVuSans-20" x="994.039062"/>
+     <use xlink:href="#DejaVuSans-30" x="1025.826172"/>
+     <use xlink:href="#DejaVuSans-2e" x="1089.449219"/>
+     <use xlink:href="#DejaVuSans-35" x="1121.236328"/>
     </g>
     <!-- squared_error = 0.006 -->
     <g transform="translate(440.471255 283.349473) scale(0.047139 -0.047139)">
